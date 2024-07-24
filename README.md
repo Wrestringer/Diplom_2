@@ -4,8 +4,8 @@
 Автоматизирует проверку [Сервиса Stellar Burger](https://stellarburgers.nomoreparties.site) 5 сервисов:
 * `POST /api/auth/register` Создание пользователя;
 * `POST /api/auth/login` Логин пользователя;
-* `PATCH /api/auth/user` Изменение пользоватея;
-* `GET /api/orders` Получение списка закаов пользователя;
+* `PATCH /api/auth/user` Изменение пользователя;
+* `GET /api/orders` Получение списка заказов пользователя;
 * `POST /api/orders` Создание заказа.
 
 Используемый стек:
