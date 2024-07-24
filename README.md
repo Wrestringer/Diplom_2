@@ -1,7 +1,7 @@
 ## ДИПЛОМНЫЙ ПРОЕКТ ЧАСТЬ 2. API-ТЕСТЫ
 
 
-Автоматизирует проверку [Сервиса Stellar Burger](https://stellarburgers.nomoreparties.site) 4 сервисов:
+Автоматизирует проверку [Сервиса Stellar Burger](https://stellarburgers.nomoreparties.site) 5 сервисов:
 * `POST /api/auth/register` Создание пользователя;
 * `POST /api/auth/login` Логин пользователя;
 * `PATCH /api/auth/user` Изменение пользоватея;
